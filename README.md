@@ -1,5 +1,9 @@
 # <p align="center">✈️ British Airways Reviews Dashboard</p>
 
+<p align="center">
+  <img src="airways_reviews.png" alt="British Airways Dashboard Preview" width="800">
+</p>
+
 An interactive Tableau dashboard analyzing customer sentiment and review trends for **British Airways**.  
 This project leverages real customer feedback data to identify service patterns, satisfaction levels, and areas for improvement.
 
