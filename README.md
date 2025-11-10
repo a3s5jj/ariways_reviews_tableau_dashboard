@@ -7,7 +7,9 @@ This project leverages real customer feedback data to identify service patterns,
 
 ## <p align="center">🌐 View the Live Dashboard</p>
 
-👉 [**View on Tableau Public**](https://public.tableau.com/app/profile/al.john.compendio/viz/BritishAirwaysReviews_17590476094870/Dashboard1)
+<p align="center">
+👉 <a href="https://public.tableau.com/app/profile/al.john.compendio/viz/BritishAirwaysReviews_17590476094870/Dashboard1"><b>View on Tableau Public</b></a>
+</p>
 
 ---
 
