@@ -35,7 +35,9 @@ This project leverages real customer feedback data to identify service patterns,
 |------|--------------|
 | `ba_reviews.csv` | Main dataset containing British Airways customer reviews |
 | `Countries.csv` | Supplementary dataset for mapping country data |
+| `British Airways Reviews_v2025.1.twbx` | Packaged Tableau workbook file for local use |
 | `README.md` | Project overview and documentation |
+
 
 ---
 
